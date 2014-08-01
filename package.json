@@ -4,6 +4,7 @@
   "description": "Display current temp",
   "main": "app/index.js",
   "dependencies": {
+    "body-parser": "^1.5.2",
     "express": "^4.7.2",
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.10.0",
